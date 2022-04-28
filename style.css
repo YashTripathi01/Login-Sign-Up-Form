@@ -29,3 +29,8 @@ body {
   padding: 0px;
   margin: 0px;
 }
+
+.logo,
+.image {
+  border-radius: 0.5rem;
+}
